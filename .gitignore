@@ -1,0 +1,4 @@
+.DS_Store
+.gitattributes
+node_modules
+README.md
