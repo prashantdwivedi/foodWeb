@@ -1,0 +1,26 @@
+{
+  "name": "foodweb",
+  "version": "1.0.0",
+  "description": "Use tailwind css to create normal website",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prashantdwivedi/foodWeb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prashantdwivedi/foodWeb/issues"
+  },
+  "homepage": "https://github.com/prashantdwivedi/foodWeb#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "postcss": "^8.3.4",
+    "tailwindcss": "^2.1.4",
+    "vite": "^2.3.7"
+  }
+}
